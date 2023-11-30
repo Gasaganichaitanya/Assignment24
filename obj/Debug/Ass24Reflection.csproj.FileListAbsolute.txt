@@ -1,0 +1,7 @@
+D:\mphasis\assignments\Day19\Assignment24\Ass24Reflection\Ass24Reflection\bin\Debug\Ass24Reflection.exe.config
+D:\mphasis\assignments\Day19\Assignment24\Ass24Reflection\Ass24Reflection\bin\Debug\Ass24Reflection.exe
+D:\mphasis\assignments\Day19\Assignment24\Ass24Reflection\Ass24Reflection\bin\Debug\Ass24Reflection.pdb
+D:\mphasis\assignments\Day19\Assignment24\Ass24Reflection\Ass24Reflection\obj\Debug\Ass24Reflection.csproj.AssemblyReference.cache
+D:\mphasis\assignments\Day19\Assignment24\Ass24Reflection\Ass24Reflection\obj\Debug\Ass24Reflection.csproj.CoreCompileInputs.cache
+D:\mphasis\assignments\Day19\Assignment24\Ass24Reflection\Ass24Reflection\obj\Debug\Ass24Reflection.exe
+D:\mphasis\assignments\Day19\Assignment24\Ass24Reflection\Ass24Reflection\obj\Debug\Ass24Reflection.pdb
